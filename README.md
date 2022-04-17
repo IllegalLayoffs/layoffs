@@ -38,7 +38,7 @@
 
 
 下面是来自B站博主[不高兴就喝水](https://space.bilibili.com/412704776) 整理的被裁后到底能拿多少钱
-> ![img.png](nn.jpg)
+> ![img.png](https://wangzaogen.github.io/img/zc.jpg)
 
 ## 关于**N**的说明
 N：指的是在公司所待的年限*月薪。六个月以上不满一年的，按一年计算；不满六个月，按半年计算。
